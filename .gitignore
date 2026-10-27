@@ -1,0 +1,11 @@
+
+# Compiled Java files
+*.class
+
+# IDE settings
+.vscode/
+
+# Secrets and local configuration
+.env
+# Database driver
+lib/
